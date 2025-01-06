@@ -1,1 +1,1 @@
-Týmový projekt pro předmět SP1 - hra v Unity pro interaktivní stěnu, červen 2024
+Týmový projekt pro předmět SP1 - hra pro interaktivní stěnu v Unity, červen 2024
